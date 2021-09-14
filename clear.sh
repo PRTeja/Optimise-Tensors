@@ -1,0 +1,16 @@
+rm convs.png
+rm convs1.png
+rm Corr0
+rm Corr1
+rm Echo
+rm Echotemp.png
+rm Error.png
+rm Etemp.png
+rm l2.png
+rm l2phi.png
+rm Parameters
+rm SS
+rm SS_Err3.png
+rm SS_Err4.png
+rm SS_Err5.png
+rm X_vals
